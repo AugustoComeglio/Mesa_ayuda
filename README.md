@@ -3,4 +3,4 @@ Este es un proyecto realizado para la materia diseño de sistemas,que correspond
 # Tecnologias utilizadas:
 - Java
 - Hibernate
-- BD: SQL
+- BD: MySQL
