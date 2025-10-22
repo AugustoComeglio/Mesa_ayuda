@@ -13,11 +13,11 @@ El sistema ofrece una interfaz gráfica para realizar operaciones de alta, baja,
 - Configuración de Flujos de Trabajo (Configuración de Tipo de Caso): Es la funcionalidad central del sistema. Permite asociar un Tipo de Caso con una secuencia ordenada de Tipos de Instancia, creando un flujo de trabajo personalizado para la resolución de cada categoría de problema.
 
 ## Tecnologías Utilizadas
-_ Lenguaje de Programación: Java.
-Interfaz Gráfica: Java Swing para la construcción de la interfaz de usuario de escritorio.
-Base de Datos: MySQL, utilizada para la persistencia de todos los datos de la aplicación.
-Mapeo Objeto-Relacional (ORM): Hibernate, para gestionar la comunicación entre la aplicación y la base de datos, mapeando los objetos Java a las tablas relacionales.
-Gestión de Dependencias y Construcción: El proyecto utiliza Apache Ant para la compilación y empaquetado de la aplicación.
+- Lenguaje de Programación: Java.
+- Interfaz Gráfica: Java Swing para la construcción de la interfaz de usuario de escritorio.
+- Base de Datos: MySQL, utilizada para la persistencia de todos los datos de la aplicación.
+- Mapeo Objeto-Relacional (ORM): Hibernate, para gestionar la comunicación entre la aplicación y la base de datos, mapeando los objetos Java a las tablas relacionales.
+- Gestión de Dependencias y Construcción: El proyecto utiliza Apache Ant para la compilación y empaquetado de la aplicación.
 
 ## Estructura del Proyecto
 El repositorio está organizado de la siguiente manera:
